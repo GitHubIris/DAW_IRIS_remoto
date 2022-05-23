@@ -1,0 +1,19 @@
+body 
+   {
+    background-color : #353535;
+   } 
+   #contenedor{
+    margin: auto;
+    width: 50%;
+    background: #f0f0f0;
+    padding: 10px;
+    font: 12px helvetica, arial, sans-serif;
+   }
+   img {width: 100%;}
+   h1 {
+    font-size : 36pt;
+    font-family : verdana,arial;
+    text-decoration : underline;
+    text-align : center;
+    background-color : Teal;
+   }
